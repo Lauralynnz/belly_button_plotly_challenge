@@ -1,6 +1,6 @@
-# belly_button_plotly_challenge
+# Build an interactive and responsive dashboard using plotly.js
 
-This interactive dashboard is a full stack app that uses plotly.js to visualize belly button bacteria data in charts as well as displays the meta data on the choosen study particpant.
+This interactive dashboard is a full stack app that visualizes belly button bacteria data in charts as well as displays the meta data on the choosen study particpant.
 
 The meta data for each particpant includes age, gender, location, ethnicity, belly button type, and the frequecny they wash their belly buttons per week.
 
