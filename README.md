@@ -1,4 +1,4 @@
-# Build an interactive and responsive dashboard using plotly.js
+# An interactive and responsive dashboard using plotly.js
 
 This interactive dashboard is a full stack app that visualizes belly button bacteria data in charts as well as displays the meta data on the choosen study particpant.
 
